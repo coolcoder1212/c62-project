@@ -1,0 +1,18 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: sans-serif
+}
+
+img {
+    width: 400px;
+    height 400px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
